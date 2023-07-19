@@ -15,7 +15,7 @@ Tabea Fry
 2. Deltas of time passed and distance travelled between consequetive AIS massege per vessel
 3. Average time computed based on previously computed values
 4. Unrealistic values removed based on location and speed. (Thresholds can optionally be adapted when running pipeline)
-5. Water depth added to every AIS message
+5. [Water depth](https://globalfishingwatch.org/data-download/datasets/public-bathymetry-v1) added to every AIS message
 6. Distance to shore appended if not entailed using [GFW dataset](https://globalfishingwatch.org/data-download/datasets/public-distance-from-shore-v1) or [tif-file](https://doi.org/10.1080/1755876X.2018.1529714)
 7. Anchorage detection performed based on distance to shore, stationarity and speed. (Thresholds can optionally be adapted when running pipeline)
 8. Full trajectoriesof individual vessels split into trips
