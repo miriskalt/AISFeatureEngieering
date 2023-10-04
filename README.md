@@ -6,7 +6,7 @@ Open Data Sources of AIS messages used in pipeline:
 - [DMA](https://dma.dk/safety-at-sea/navigational-information/ais-data)
 
 ### Authors
-**Sören Dethlefsen**
+**Sören Dethlefsen**  
 Supervised by Mirjam Bayer  
 
 ### Steps performed
