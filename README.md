@@ -21,5 +21,7 @@ Supervised by Mirjam Bayer
 9. Data exported as csv containing all additional features
 
 ### Further resources
-This pipeline is (hopefully) to be presented at the eScience Conference in Limassol, Cyprus in October 9-13, 2023.
-The collateral poster paper will contain more details on the features computed in this pipeline. Link will follow if published.
+This pipeline was presented at the eScience Conference in Limassol, Cyprus in October 9-13, 2023.
+The collateral poster paper contains more details on the features computed in this pipeline.
+
+**Bayer, M., Dethlefsen, S., Fry, T., & Kröger, P. (2023, October). Enhancing AIS Vessel Trajectories via Trip Detection. In 2023 IEEE 19th International Conference on e-Science (e-Science) (pp. 1-2). IEEE.**
